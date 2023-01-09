@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"dataAccessObjects"},{"l":"generateQRCode"},{"l":"modelClasses"},{"l":"sample"}]
